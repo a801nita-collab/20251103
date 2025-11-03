@@ -1,0 +1,9 @@
+question,optionA,optionB,optionC,optionD,answer
+p5.js是什麼?,一個繪圖函式庫,一種咖啡品牌,一種汽車型號,一種水果,A
+在p5.js中，哪個函式只會執行一次?,draw(),setup(),preload(),mouseClicked(),B
+哪個顏色代碼代表純紅色?,#FF0000,#00FF00,#0000FF,#FFFFFF,A
+在p5.js中，width 代表什麼?,畫布的高度,畫布的寬度,視窗的寬度,線條的粗細,B
+background(0); 會將背景設為?,白色,灰色,黑色,透明,C
+如何畫一個圓形?,rect(10,10,50,50),circle(100,100,50),line(0,0,10,10),triangle(0,0,50,50,100,0),B
+fill(255, 0, 0) 是什麼顏色?,藍色,綠色,黃色,紅色,D
+noStroke() 的作用是?,沒有填色,沒有邊線,沒有背景,沒有動畫,B
